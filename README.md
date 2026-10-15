@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="smart-contacts"></p>
+
 # 通讯录 · 单文件版（Contact Address Book）
 
 > 一个 **单文件 HTML** 的通讯录应用：vCard 2.1 / 3.0 / 4.0 双向导入导出、两级分类、标签、模糊搜索、Supabase 云同步、普通访客只读 + 管理员密码解锁编辑。
